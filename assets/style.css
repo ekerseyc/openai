@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+/* classes */
+.btn {
+  background-color: skyblue;
+  border: 0px;
+  border-radius: 4px;
+  font-size: large;
+  padding: 10px;
+  margin-top: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+.prompt-box {
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin: 40px;
+  padding: 30px;
+}
+.response-con {
+  background-color: gray;
+  border-radius: 5px;
+}
